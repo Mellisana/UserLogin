@@ -1,4 +1,4 @@
-package netology;
+package netology.data;
 
 import com.github.javafaker.Faker;
 import io.restassured.builder.RequestSpecBuilder;
